@@ -22,7 +22,7 @@
     ],
     "deprecatedVersions": [
         {
-            "name": "3.1.",
+            "name": "3.2.1",
             "message": "Sie verwenden nicht die aktuellste App-Version. Bitte aktualisieren Sie die App."
         }
     ],
