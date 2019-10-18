@@ -1,0 +1,35 @@
+{
+    "articleCommands": [
+        "var elements = document.querySelectorAll( 'body > *' ),bodyEl = document.querySelectorAll('body')[0];elements.forEach( function( el ) { if(element.tagName !== \"UL\") {el.style.cssText = \"transform:rotate(0deg)\";} });"
+    ],
+    "blankWebViewCommands": [
+        "var elements = document.querySelectorAll( 'body > *' ),bodyEl = document.querySelectorAll('body')[0];elements.forEach( function( el ) { document.getElementsByClassName('tr-close')[0].style.display = \"none\"; });",
+        "var elements = document.querySelectorAll( 'body > *' ),bodyEl = document.querySelectorAll('body')[0];elements.forEach( function( el ) { document.getElementsByClassName('tr-flex')[0].style.display = \"none\"; });",
+        "var elements = document.querySelectorAll( 'body > *' ),bodyEl = document.querySelectorAll('body')[0];elements.forEach( function( el ) { document.getElementById('Tmheader1').style.display = \"none\"; });",
+        "var elements = document.querySelectorAll( 'body > *' ),bodyEl = document.querySelectorAll('body')[0];elements.forEach( function( el ) { document.getElementsByClassName('cancelTart')[0].firstChild.style.display = \"none\" });",
+        "var elements = document.querySelectorAll( 'body > *' ),bodyEl = document.querySelectorAll('body')[0];elements.forEach( function( el ) { document.getElementsByClassName('winterSportMEW')[0].firstChild.style.display = \"none\" });",
+        "var elements = document.querySelectorAll( 'body > *' ),bodyEl = document.querySelectorAll('body')[0];elements.forEach( function( el ) { document.getElementsByClassName('overviewTabs')[0].style.display = \"none\" });",
+        "var elements = document.querySelectorAll( 'body > *' ),bodyEl = document.querySelectorAll('body')[0];elements.forEach( function( el ) { document.getElementsByClassName('Tsmtrightbtn')[0].style.display = \"none\" });",
+        "var elements = document.querySelectorAll( 'body > *' ),bodyEl = document.querySelectorAll('body')[0];elements.forEach( function( el ) { document.getElementById('T-71956718').style.display = \"none\"; });",
+        "var elements = document.querySelectorAll( 'body > *' ),bodyEl = document.querySelectorAll('body')[0];elements.forEach( function( el ) { document.getElementsByClassName('taAnmelden')[0].style.display = \"none\"; });",
+        "var elements = document.querySelectorAll( 'body > *' ),bodyEl = document.querySelectorAll('body')[0];elements.forEach( function( el ) { document.getElementsByClassName('followUs')[0].style.display = \"none\"; });",
+        "var elements = document.querySelectorAll( 'body > *' ),bodyEl = document.querySelectorAll('body')[0];elements.forEach( function( el ) { document.getElementsByClassName('Tww05')[0].style.display = \"none\"; });",
+        "var elements = document.querySelectorAll( 'body > *' ),bodyEl = document.querySelectorAll('body')[0];elements.forEach( function( el ) { var element = document.getElementsByClassName('nav')[0]; if(element.tagName === \"UL\" && !element.classList.contains('tabs-nav')) element.style.display = \"none\";} });",
+        "var elements = document.querySelectorAll( 'body > *' ),bodyEl = document.querySelectorAll('body')[0];elements.forEach( function( el ) { var element = document.getElementsByClassName('nav')[1]; if(element.tagName === \"UL\") element.style.display = \"none\";} });",
+        "var elements = document.querySelectorAll( 'body > *' ),bodyEl = document.querySelectorAll('body')[0];elements.forEach( function( el ) { document.getElementsByClassName('back2top')[0].style.display = \"none\"; });",
+        "var elements = document.querySelectorAll( 'body > *' ),bodyEl = document.querySelectorAll('body')[0];elements.forEach( function( el ) { document.getElementsByClassName('bottomnavi')[0].style.display = \"none\"; });",
+        "var elements = document.querySelectorAll( 'body > *' ),bodyEl = document.querySelectorAll('body')[0];elements.forEach( function( el ) { document.getElementsByClassName('licencedby')[0].style.display = \"none\"; });"
+    ],
+    "deprecatedVersions": [
+        {
+            "name": "3.1.",
+            "message": "Sie verwenden nicht die aktuellste App-Version. Bitte aktualisieren Sie die App."
+        }
+    ],
+    "unsupportedVersions": [
+        {
+            "name": "3.0.",
+            "message": "Sie verwenden nicht die aktuellste App-Version. Bitte aktualisieren Sie die App."
+        }
+    ]
+}
