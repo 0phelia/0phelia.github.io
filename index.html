@@ -22,8 +22,29 @@
 </style>
 </head>
 <body>
+	<script type="text/javascript">
+		window.addEventListener('load', function () {
+  			if (jsInterface.isNightMode()) {
+				changeTheme(true);
+  			} else {
+  				changeTheme(false);
+  			}
+		});
+
+		function changeTheme(dark) {
+			var myDiv = document.getElementsByTagName("BODY");
+			if (dark) {
+				myDiv[0].setAttribute("style", "color:#FF00FF;");
+			} else {
+				myDiv[0].setAttribute("style", "color:#00FF00;");
+			}
+		}
+		
+	</script>
 
 <h2>
+<button onclick="changeTheme(true)">Try it</button>
+
 Fallback: https://www.t-online.de/</h2>
 
 <div class="row">
