@@ -50,6 +50,10 @@ a:focus {
 
 .CLASS--TshowLinkInXML a, li strong+a, li strong+a+a {
   text-decoration: underline;
+  color: #FFFFFF;
+}
+
+.CLASS--TshowLinkInXML strong {
   color: #E1E1E1;
 }
 
