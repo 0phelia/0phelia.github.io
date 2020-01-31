@@ -1,7 +1,7 @@
 /* html {font-size: 16px} */
 
 body {
-  background: #000000 !important;
+  background: #1D1D1D !important;
   color: #E1E1E1;
   font-family: ArialMT, arial, helvetica, freesans, sans-serif !important;
   margin: 0pt 9.5pt;
@@ -27,7 +27,7 @@ a:focus {
 }
 
 .thead {
-  background: #000000;
+  background: #1D1D1D;
 }
 
 table td>sub {
@@ -96,7 +96,7 @@ a[href*="widgets.stroeerdp.de"]:before {
   height: 21px;
   margin-bottom: -4px;
   padding-right: 2px;
-  background: #000 center 1px no-repeat url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI2NCIgaGVpZ2h0PSI2NCIgdmlld0JveD0iMCAwIDY0IDY0Ij48cGF0aCBkPSJNNTEsNTJhNCw0LDAsMSwxLTQtNEE0LDQsMCwwLDEsNTEsNTJaTTI1LDQ4YTQsNCwwLDEsMCw0LDRBNCw0LDAsMCwwLDI1LDQ4Wk02MSwxNSw1Ni43MywzNGEyLjYyLDIuNjIsMCwwLDEtMi40NCwySDIxLjUzbDEsNi4zYS45Mi45MiwwLDAsMCwuODIuN0g1My40NWExLjUsMS41LDAsMCwxLDAsM0gyMy4zMWEzLjkxLDMuOTEsMCwwLDEtMy43OS0zLjI1bC0xLjMtOC40NmEyLjA4LDIuMDgsMCwwLDEtLjA3LS4yN2wtMS43NS0xMS42TDE0Ljc3LDExLjdhLjkyLjkyLDAsMCwwLS44Mi0uN0gzLjUxYTEuNSwxLjUsMCwwLDEsMC0zSDEzLjk0YTMuOTEsMy45MSwwLDAsMSwzLjc5LDMuMjVMMTgsMTNINTkuNDdBMS41MywxLjUzLDAsMCwxLDYxLDE1Wk0xOC40NywxNmwuNiw0SDU2LjgybC45LTRaTTI4LDIyVjMzaDlWMjJaTTM5LDMzaDlWMjJIMzlaTTI2LDMzVjIySDE5LjM4djBsMS42OCwxMVpNNTYuMzcsMjJINTBWMzNoMy44OVoiIGZpbGw9IiM2YzZjNmMiIC8+PC9zdmc+);
+  background: #1D1D1D center 1px no-repeat url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI2NCIgaGVpZ2h0PSI2NCIgdmlld0JveD0iMCAwIDY0IDY0Ij48cGF0aCBkPSJNNTEsNTJhNCw0LDAsMSwxLTQtNEE0LDQsMCwwLDEsNTEsNTJaTTI1LDQ4YTQsNCwwLDEsMCw0LDRBNCw0LDAsMCwwLDI1LDQ4Wk02MSwxNSw1Ni43MywzNGEyLjYyLDIuNjIsMCwwLDEtMi40NCwySDIxLjUzbDEsNi4zYS45Mi45MiwwLDAsMCwuODIuN0g1My40NWExLjUsMS41LDAsMCwxLDAsM0gyMy4zMWEzLjkxLDMuOTEsMCwwLDEtMy43OS0zLjI1bC0xLjMtOC40NmEyLjA4LDIuMDgsMCwwLDEtLjA3LS4yN2wtMS43NS0xMS42TDE0Ljc3LDExLjdhLjkyLjkyLDAsMCwwLS44Mi0uN0gzLjUxYTEuNSwxLjUsMCwwLDEsMC0zSDEzLjk0YTMuOTEsMy45MSwwLDAsMSwzLjc5LDMuMjVMMTgsMTNINTkuNDdBMS41MywxLjUzLDAsMCwxLDYxLDE1Wk0xOC40NywxNmwuNiw0SDU2LjgybC45LTRaTTI4LDIyVjMzaDlWMjJaTTM5LDMzaDlWMjJIMzlaTTI2LDMzVjIySDE5LjM4djBsMS42OCwxMVpNNTYuMzcsMjJINTBWMzNoMy44OVoiIGZpbGw9IiM2YzZjNmMiIC8+PC9zdmc+);
   background-size: 20px;
 }
 
